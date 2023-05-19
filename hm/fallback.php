@@ -1,6 +1,6 @@
 <?php
 // Telegram Bot API token
-$botToken = '6238694951:AAHawqGv-51rcvu8yBZ38A6UIPd6pcq3Ii4';
+$botToken = 'lol';
 // Chat ID where the message will be sent
 $chatId = '6068365157';
 // File paths
